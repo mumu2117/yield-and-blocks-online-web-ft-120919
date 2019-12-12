@@ -10,7 +10,7 @@ end	    while i < array.length
       end
 
 
-	      array
+      array
     else
       puts "Hey! No block was given!"
     end
@@ -25,5 +25,4 @@ end	    while i < array.length
 #end
 end
 
-# call your method here!
 
